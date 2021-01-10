@@ -1,0 +1,2 @@
+sp_vgg16.py 直接运行得到vgg16和vgg6+spinal layer在cifar10数据集中的结果
+nosiy_student.py nosiy_student_stage2.py nosiy_student_stage3.py为在vgg16+spinal layer基础上增加的Noisy student的三个阶段 直接命令行运行
